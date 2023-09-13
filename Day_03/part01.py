@@ -15,4 +15,4 @@ for binary in input:
         most_common += "0"
         least_common += "1"
 
-print(int(most_common,2)*int(least_common, 2))
+print(int(most_common, 2) * int(least_common, 2))
